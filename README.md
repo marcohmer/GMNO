@@ -7,7 +7,7 @@ DOI Badge of this repository:
 # Spatio-temporal optimization of groundwater monitoring networks using data-driven sparse sensing methods
 
 
-This repository enables you to performe the calculations shown in the manuscript: *Ohmer, M., Liesch, A., Wunsch, A., Spatio-temporal optimization of groundwater monitoring networks using data-driven sparse sensing methods*
+This repository enables you to performe the calculations shown in the manuscript: *Ohmer, M., Liesch, T., Wunsch, A., Spatio-temporal optimization of groundwater monitoring networks using data-driven sparse sensing methods (Submitted)*
 
 Contact: marc.ohmer@kit.edu
 
