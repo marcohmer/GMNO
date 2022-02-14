@@ -1,6 +1,8 @@
 
-[![License](by-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![License](by-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
 
+DOI Badge of this repository:
+[![DOI](https://zenodo.org/badge/454761656.svg)](https://zenodo.org/badge/latestdoi/454761656)
 
 # Spatio-temporal optimization of groundwater monitoring networks using data-driven sparse sensing methods
 
